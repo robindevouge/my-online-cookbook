@@ -2,10 +2,10 @@
 title: Pain Croque Mcdo
 image: /img/recipes/croque-1.webp
 tags:
-  - Salé 🧂
-  - 1repas1euro 🪙
-  - Rapide ⏱
   - Favoris ⭐
+  - Salé 🧂
+  - 1repas1euro 💶
+  - Rapide ⏱
 time: 20 min
 servings: 2
 sourceLabel: 1repas1euro
