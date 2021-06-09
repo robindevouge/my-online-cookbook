@@ -4,6 +4,7 @@ image: /img/recipes/poulet-pane-croustillant.jpg
 tags:
   - Salé 🧂
   - Viande 🍗
+  - Poulet 🐔
 ingredients:
   - Aiguillettes de poulet
   - Oeuf
