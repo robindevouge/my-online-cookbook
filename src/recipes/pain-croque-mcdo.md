@@ -4,7 +4,7 @@ image: /img/recipes/croque-1.webp
 tags:
   - Favoris ⭐
   - Salé 🧂
-  - Rapide ⏳
+  - Vite prêt ⏳
 time: 20 min
 servings: 2
 sourceLabel: 1repas1euro
