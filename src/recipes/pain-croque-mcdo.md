@@ -5,7 +5,7 @@ tags:
   - Salé 🧂
   - 1repas1euro 🪙
   - Rapide ⏱
-time: "20"
+time: 20 min
 servings: 2
 sourceLabel: 1repas1euro
 sourceURL: https://1repas1euro.com/sale/croque-mcdo/
@@ -15,8 +15,6 @@ ingredients:
   - 36g de farine
   - 4 pincées de levure chimique
   - 1 pincée de sel
-  - Jambon
-  - Fromage
 ---
 * **Séparer le blanc du jaune**. Ajouter le sel au blanc d’oeuf et le **battre en neige**, puis laisser de côté.
 * Mélanger le **jaune d’oeuf, la farine, la levure et le lait**. Quand la pâte est bien homogène et lisse, incorporer délicatement les **blancs en neige** en mélangeant très doucement.
