@@ -2,9 +2,9 @@
 title: Cheese Naan
 image: /img/recipes/naan-4.webp
 tags:
-  - 1repas1euro 🪙
   - Salé 🧂
   - Rapide ⏱
+  - 1repas1euro 💶
 time: 15 min
 servings: 6
 sourceLabel: 1repas1euro
