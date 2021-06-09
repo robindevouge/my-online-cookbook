@@ -5,6 +5,7 @@ tags:
   - Salé 🧂
   - 1repas1euro 🪙
   - Rapide ⏱
+  - Favori ⭐️
 time: 20 min
 servings: 2
 sourceLabel: 1repas1euro
