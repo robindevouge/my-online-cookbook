@@ -1,6 +1,6 @@
 ---
 title: Pain Croque Mcdo
-image: https://i1.wp.com/1repas1euro.com/wp-content/uploads/2021/06/croque-1.png?fit=1000%2C742&ssl=1
+image: /img/recipes/croque-1.webp
 tags:
   - Salé 🧂
   - 1repas1euro 🪙
