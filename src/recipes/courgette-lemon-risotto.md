@@ -5,7 +5,7 @@ tags:
   - Italian 🇮🇹
   - Vegetarian 🌿
   - Favourite ⭐
-  - test
+  - test 🙂
 time: 50 min
 servings: 2
 sourceLabel: BBC good food
