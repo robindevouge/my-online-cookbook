@@ -1,11 +1,11 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
-    "primaryColor": "#ffdb70",
-    "secondaryColor": "#32816e",
-    "searchLabel": "Find recipes by name, tag or ingredients",
-    "searchContainsLabel": "Contains",
-    "servingsLabel": "servings",
-    "ingredientsLabel": "Ingredients"
+  "primaryColor": "#ffdb70",
+  "author": "Robin Devouge",
+  "name": "Robin's Cookbook",
+  "searchLabel": "Chercher par nom, tag ou ingrédient",
+  "servingsLabel": "portions",
+  "searchContainsLabel": "Contient",
+  "secondaryColor": "#32816e",
+  "ingredientsLabel": "Ingrédients",
+  "metaDescription": "Le livre de recettes de Robin"
 }
