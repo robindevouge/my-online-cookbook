@@ -4,6 +4,7 @@ image: https://i1.wp.com/1repas1euro.com/wp-content/uploads/2021/06/croque-1.png
 tags:
   - Salé 🧂
   - 1repas1euro 🪙
+  - Rapide ⏱
 time: "20"
 servings: 2
 sourceLabel: 1repas1euro
