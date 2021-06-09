@@ -1,4 +1,4 @@
 ---
 layout: layouts/recipes-list.njk
-title: Tout
+title: Toutes les recettes
 ---
