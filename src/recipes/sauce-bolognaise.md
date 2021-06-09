@@ -21,4 +21,6 @@ ingredients:
 * Une fois le haché cuit, ajouter le coulis de tomates et les épices
 * Laisser mijoter au moins 1h
 
+
+
 Astuce : encore meilleur le lendemain
