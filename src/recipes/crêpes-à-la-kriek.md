@@ -4,7 +4,7 @@ image: /img/recipes/naan-4.webp
 tags:
   - Dessert
 time: 15min + cuisson
-servings: 10
+servings: 12
 ingredients:
   - 300g de farine fluide
   - 500ml de lait
