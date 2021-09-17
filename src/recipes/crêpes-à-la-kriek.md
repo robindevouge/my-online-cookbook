@@ -1,6 +1,8 @@
 ---
 title: Crêpes à la kriek
 image: /img/recipes/naan-4.webp
+tags:
+  - Dessert
 time: 15min + cuisson
 servings: 10
 ingredients:
