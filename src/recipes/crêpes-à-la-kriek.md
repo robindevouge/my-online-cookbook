@@ -3,7 +3,7 @@ title: Crêpes à la kriek
 image: /img/recipes/naan-4.webp
 tags:
   - Dessert
-time: 15min + cuisson
+time: 15 min + 1h + 30 min
 servings: 12
 ingredients:
   - 300g de farine fluide
