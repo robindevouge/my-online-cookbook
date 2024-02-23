@@ -2,8 +2,8 @@
 title: Sauce bolognaise
 image: /img/recipes/sauce-bolognaise.jpg
 tags:
-  - Salé 🧂
   - Favoris ⭐
+  - Pasta 🍝
 servings: 5
 ingredients:
   - 500g de haché
